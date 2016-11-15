@@ -463,7 +463,7 @@
 		 * Google Map
 		/* ---------------------------------------------- */
 
-		var mapLocation = new google.maps.LatLng(53.340854, -6.263339
+		var mapLocation = new google.maps.LatLng(40.716061, -73.944173
 
 );
 
@@ -495,7 +495,7 @@
 				icon: image,
 				title: 'Rival',
 				infoWindow: {
-					content: '<p><strong>My Current Location</strong><br/>William Street South<br/>Dublin<br/>Ireland</p>'
+					content: '<p><strong>My Current Location</strong><br/>Skillman Ave<br/>Brooklyn<br/>NYC</p>'
 				}
 			});
 
